@@ -1,0 +1,1128 @@
+-----------------------------------------
+Guinea_pig + Cat : 95
+Transmission Events = 23
+Guinea_pig + Patient_7 : 81
+Transmission Events = 20
+Guinea_pig + reference : 95
+Transmission Events = 23
+Guinea_pig + Patient_1 : 95
+Transmission Events = 23
+Guinea_pig + Patient_9 : 79
+Transmission Events = 19
+Guinea_pig + Patient_8 : 78
+Transmission Events = 19
+Guinea_pig + Patient_6 : 79
+Transmission Events = 19
+Guinea_pig + Patient_10 : 78
+Transmission Events = 19
+Guinea_pig + Patient_16 : 78
+Transmission Events = 19
+Guinea_pig + Patient_11 : 78
+Transmission Events = 19
+Guinea_pig + Patient_2 : 79
+Transmission Events = 19
+Guinea_pig + Patient_5 : 79
+Transmission Events = 19
+Guinea_pig + Patient_15 : 78
+Transmission Events = 19
+Guinea_pig + Patient_12 : 79
+Transmission Events = 19
+Guinea_pig + Patient_3 : 78
+Transmission Events = 19
+Guinea_pig + Patient_4 : 79
+Transmission Events = 19
+Guinea_pig + Patient_14 : 79
+Transmission Events = 19
+Guinea_pig + Bat : 79
+Transmission Events = 19
+Guinea_pig + Patient_13 : 78
+Transmission Events = 19
+Guinea_pig + Rabid_raccoon_3 : 251
+Transmission Events = 62
+Guinea_pig + Rabid_raccoon_1 : 171
+Transmission Events = 42
+Guinea_pig + Rabid_raccoon_2 : 175
+Transmission Events = 43
+Guinea_pig + Rabid_raccoon_4 : 174
+Transmission Events = 43
+-----------------------------------------
+Cat + Guinea_pig : 95
+Transmission Events = 23
+Cat + Patient_7 : 50
+Transmission Events = 12
+Cat + reference : 66
+Transmission Events = 16
+Cat + Patient_1 : 66
+Transmission Events = 16
+Cat + Patient_9 : 48
+Transmission Events = 12
+Cat + Patient_8 : 47
+Transmission Events = 11
+Cat + Patient_6 : 48
+Transmission Events = 12
+Cat + Patient_10 : 49
+Transmission Events = 12
+Cat + Patient_16 : 47
+Transmission Events = 11
+Cat + Patient_11 : 47
+Transmission Events = 11
+Cat + Patient_2 : 48
+Transmission Events = 12
+Cat + Patient_5 : 48
+Transmission Events = 12
+Cat + Patient_15 : 47
+Transmission Events = 11
+Cat + Patient_12 : 48
+Transmission Events = 12
+Cat + Patient_3 : 47
+Transmission Events = 11
+Cat + Patient_4 : 48
+Transmission Events = 12
+Cat + Patient_14 : 48
+Transmission Events = 12
+Cat + Bat : 48
+Transmission Events = 12
+Cat + Patient_13 : 47
+Transmission Events = 11
+Cat + Rabid_raccoon_3 : 222
+Transmission Events = 55
+Cat + Rabid_raccoon_1 : 142
+Transmission Events = 35
+Cat + Rabid_raccoon_2 : 146
+Transmission Events = 36
+Cat + Rabid_raccoon_4 : 145
+Transmission Events = 36
+-----------------------------------------
+Patient_7 + Guinea_pig : 81
+Transmission Events = 20
+Patient_7 + Cat : 50
+Transmission Events = 12
+Patient_7 + reference : 16
+Transmission Events = 4
+Patient_7 + Patient_1 : 16
+Transmission Events = 4
+Patient_7 + Patient_9 : 4
+Transmission Events = 1
+Patient_7 + Patient_8 : 3
+Transmission Events = 0
+Patient_7 + Patient_6 : 4
+Transmission Events = 1
+Patient_7 + Patient_10 : 5
+Transmission Events = 1
+Patient_7 + Patient_16 : 3
+Transmission Events = 0
+Patient_7 + Patient_11 : 3
+Transmission Events = 0
+Patient_7 + Patient_2 : 4
+Transmission Events = 1
+Patient_7 + Patient_5 : 4
+Transmission Events = 1
+Patient_7 + Patient_15 : 3
+Transmission Events = 0
+Patient_7 + Patient_12 : 4
+Transmission Events = 1
+Patient_7 + Patient_3 : 3
+Transmission Events = 0
+Patient_7 + Patient_4 : 4
+Transmission Events = 1
+Patient_7 + Patient_14 : 4
+Transmission Events = 1
+Patient_7 + Bat : 4
+Transmission Events = 1
+Patient_7 + Patient_13 : 3
+Transmission Events = 0
+Patient_7 + Rabid_raccoon_3 : 176
+Transmission Events = 44
+Patient_7 + Rabid_raccoon_1 : 96
+Transmission Events = 24
+Patient_7 + Rabid_raccoon_2 : 100
+Transmission Events = 25
+Patient_7 + Rabid_raccoon_4 : 97
+Transmission Events = 24
+-----------------------------------------
+reference + Guinea_pig : 95
+Transmission Events = 23
+reference + Cat : 66
+Transmission Events = 16
+reference + Patient_7 : 16
+Transmission Events = 4
+reference + Patient_1 : 0
+Transmission Events = 0
+reference + Patient_9 : 18
+Transmission Events = 4
+reference + Patient_8 : 19
+Transmission Events = 4
+reference + Patient_6 : 20
+Transmission Events = 5
+reference + Patient_10 : 17
+Transmission Events = 4
+reference + Patient_16 : 19
+Transmission Events = 4
+reference + Patient_11 : 19
+Transmission Events = 4
+reference + Patient_2 : 20
+Transmission Events = 5
+reference + Patient_5 : 18
+Transmission Events = 4
+reference + Patient_15 : 19
+Transmission Events = 4
+reference + Patient_12 : 20
+Transmission Events = 5
+reference + Patient_3 : 19
+Transmission Events = 4
+reference + Patient_4 : 20
+Transmission Events = 5
+reference + Patient_14 : 18
+Transmission Events = 4
+reference + Bat : 20
+Transmission Events = 5
+reference + Patient_13 : 19
+Transmission Events = 4
+reference + Rabid_raccoon_3 : 166
+Transmission Events = 41
+reference + Rabid_raccoon_1 : 86
+Transmission Events = 21
+reference + Rabid_raccoon_2 : 90
+Transmission Events = 22
+reference + Rabid_raccoon_4 : 87
+Transmission Events = 21
+-----------------------------------------
+Patient_1 + Guinea_pig : 95
+Transmission Events = 23
+Patient_1 + Cat : 66
+Transmission Events = 16
+Patient_1 + Patient_7 : 16
+Transmission Events = 4
+Patient_1 + reference : 0
+Transmission Events = 0
+Patient_1 + Patient_9 : 18
+Transmission Events = 4
+Patient_1 + Patient_8 : 19
+Transmission Events = 4
+Patient_1 + Patient_6 : 20
+Transmission Events = 5
+Patient_1 + Patient_10 : 17
+Transmission Events = 4
+Patient_1 + Patient_16 : 19
+Transmission Events = 4
+Patient_1 + Patient_11 : 19
+Transmission Events = 4
+Patient_1 + Patient_2 : 20
+Transmission Events = 5
+Patient_1 + Patient_5 : 18
+Transmission Events = 4
+Patient_1 + Patient_15 : 19
+Transmission Events = 4
+Patient_1 + Patient_12 : 20
+Transmission Events = 5
+Patient_1 + Patient_3 : 19
+Transmission Events = 4
+Patient_1 + Patient_4 : 20
+Transmission Events = 5
+Patient_1 + Patient_14 : 18
+Transmission Events = 4
+Patient_1 + Bat : 20
+Transmission Events = 5
+Patient_1 + Patient_13 : 19
+Transmission Events = 4
+Patient_1 + Rabid_raccoon_3 : 166
+Transmission Events = 41
+Patient_1 + Rabid_raccoon_1 : 86
+Transmission Events = 21
+Patient_1 + Rabid_raccoon_2 : 90
+Transmission Events = 22
+Patient_1 + Rabid_raccoon_4 : 87
+Transmission Events = 21
+-----------------------------------------
+Patient_9 + Guinea_pig : 79
+Transmission Events = 19
+Patient_9 + Cat : 48
+Transmission Events = 12
+Patient_9 + Patient_7 : 4
+Transmission Events = 1
+Patient_9 + reference : 18
+Transmission Events = 4
+Patient_9 + Patient_1 : 18
+Transmission Events = 4
+Patient_9 + Patient_8 : 1
+Transmission Events = 0
+Patient_9 + Patient_6 : 2
+Transmission Events = 0
+Patient_9 + Patient_10 : 1
+Transmission Events = 0
+Patient_9 + Patient_16 : 1
+Transmission Events = 0
+Patient_9 + Patient_11 : 1
+Transmission Events = 0
+Patient_9 + Patient_2 : 2
+Transmission Events = 0
+Patient_9 + Patient_5 : 0
+Transmission Events = 0
+Patient_9 + Patient_15 : 1
+Transmission Events = 0
+Patient_9 + Patient_12 : 2
+Transmission Events = 0
+Patient_9 + Patient_3 : 1
+Transmission Events = 0
+Patient_9 + Patient_4 : 2
+Transmission Events = 0
+Patient_9 + Patient_14 : 0
+Transmission Events = 0
+Patient_9 + Bat : 2
+Transmission Events = 0
+Patient_9 + Patient_13 : 1
+Transmission Events = 0
+Patient_9 + Rabid_raccoon_3 : 174
+Transmission Events = 43
+Patient_9 + Rabid_raccoon_1 : 94
+Transmission Events = 23
+Patient_9 + Rabid_raccoon_2 : 98
+Transmission Events = 24
+Patient_9 + Rabid_raccoon_4 : 97
+Transmission Events = 24
+-----------------------------------------
+Patient_8 + Guinea_pig : 78
+Transmission Events = 19
+Patient_8 + Cat : 47
+Transmission Events = 11
+Patient_8 + Patient_7 : 3
+Transmission Events = 0
+Patient_8 + reference : 19
+Transmission Events = 4
+Patient_8 + Patient_1 : 19
+Transmission Events = 4
+Patient_8 + Patient_9 : 1
+Transmission Events = 0
+Patient_8 + Patient_6 : 1
+Transmission Events = 0
+Patient_8 + Patient_10 : 2
+Transmission Events = 0
+Patient_8 + Patient_16 : 0
+Transmission Events = 0
+Patient_8 + Patient_11 : 0
+Transmission Events = 0
+Patient_8 + Patient_2 : 1
+Transmission Events = 0
+Patient_8 + Patient_5 : 1
+Transmission Events = 0
+Patient_8 + Patient_15 : 0
+Transmission Events = 0
+Patient_8 + Patient_12 : 1
+Transmission Events = 0
+Patient_8 + Patient_3 : 0
+Transmission Events = 0
+Patient_8 + Patient_4 : 1
+Transmission Events = 0
+Patient_8 + Patient_14 : 1
+Transmission Events = 0
+Patient_8 + Bat : 1
+Transmission Events = 0
+Patient_8 + Patient_13 : 0
+Transmission Events = 0
+Patient_8 + Rabid_raccoon_3 : 175
+Transmission Events = 43
+Patient_8 + Rabid_raccoon_1 : 95
+Transmission Events = 23
+Patient_8 + Rabid_raccoon_2 : 99
+Transmission Events = 24
+Patient_8 + Rabid_raccoon_4 : 98
+Transmission Events = 24
+-----------------------------------------
+Patient_6 + Guinea_pig : 79
+Transmission Events = 19
+Patient_6 + Cat : 48
+Transmission Events = 12
+Patient_6 + Patient_7 : 4
+Transmission Events = 1
+Patient_6 + reference : 20
+Transmission Events = 5
+Patient_6 + Patient_1 : 20
+Transmission Events = 5
+Patient_6 + Patient_9 : 2
+Transmission Events = 0
+Patient_6 + Patient_8 : 1
+Transmission Events = 0
+Patient_6 + Patient_10 : 3
+Transmission Events = 0
+Patient_6 + Patient_16 : 1
+Transmission Events = 0
+Patient_6 + Patient_11 : 1
+Transmission Events = 0
+Patient_6 + Patient_2 : 2
+Transmission Events = 0
+Patient_6 + Patient_5 : 2
+Transmission Events = 0
+Patient_6 + Patient_15 : 1
+Transmission Events = 0
+Patient_6 + Patient_12 : 2
+Transmission Events = 0
+Patient_6 + Patient_3 : 1
+Transmission Events = 0
+Patient_6 + Patient_4 : 2
+Transmission Events = 0
+Patient_6 + Patient_14 : 2
+Transmission Events = 0
+Patient_6 + Bat : 2
+Transmission Events = 0
+Patient_6 + Patient_13 : 1
+Transmission Events = 0
+Patient_6 + Rabid_raccoon_3 : 176
+Transmission Events = 44
+Patient_6 + Rabid_raccoon_1 : 96
+Transmission Events = 24
+Patient_6 + Rabid_raccoon_2 : 100
+Transmission Events = 25
+Patient_6 + Rabid_raccoon_4 : 99
+Transmission Events = 24
+-----------------------------------------
+Patient_10 + Guinea_pig : 78
+Transmission Events = 19
+Patient_10 + Cat : 49
+Transmission Events = 12
+Patient_10 + Patient_7 : 5
+Transmission Events = 1
+Patient_10 + reference : 17
+Transmission Events = 4
+Patient_10 + Patient_1 : 17
+Transmission Events = 4
+Patient_10 + Patient_9 : 1
+Transmission Events = 0
+Patient_10 + Patient_8 : 2
+Transmission Events = 0
+Patient_10 + Patient_6 : 3
+Transmission Events = 0
+Patient_10 + Patient_16 : 2
+Transmission Events = 0
+Patient_10 + Patient_11 : 2
+Transmission Events = 0
+Patient_10 + Patient_2 : 3
+Transmission Events = 0
+Patient_10 + Patient_5 : 1
+Transmission Events = 0
+Patient_10 + Patient_15 : 2
+Transmission Events = 0
+Patient_10 + Patient_12 : 3
+Transmission Events = 0
+Patient_10 + Patient_3 : 2
+Transmission Events = 0
+Patient_10 + Patient_4 : 3
+Transmission Events = 0
+Patient_10 + Patient_14 : 1
+Transmission Events = 0
+Patient_10 + Bat : 3
+Transmission Events = 0
+Patient_10 + Patient_13 : 2
+Transmission Events = 0
+Patient_10 + Rabid_raccoon_3 : 173
+Transmission Events = 43
+Patient_10 + Rabid_raccoon_1 : 93
+Transmission Events = 23
+Patient_10 + Rabid_raccoon_2 : 97
+Transmission Events = 24
+Patient_10 + Rabid_raccoon_4 : 96
+Transmission Events = 24
+-----------------------------------------
+Patient_16 + Guinea_pig : 78
+Transmission Events = 19
+Patient_16 + Cat : 47
+Transmission Events = 11
+Patient_16 + Patient_7 : 3
+Transmission Events = 0
+Patient_16 + reference : 19
+Transmission Events = 4
+Patient_16 + Patient_1 : 19
+Transmission Events = 4
+Patient_16 + Patient_9 : 1
+Transmission Events = 0
+Patient_16 + Patient_8 : 0
+Transmission Events = 0
+Patient_16 + Patient_6 : 1
+Transmission Events = 0
+Patient_16 + Patient_10 : 2
+Transmission Events = 0
+Patient_16 + Patient_11 : 0
+Transmission Events = 0
+Patient_16 + Patient_2 : 1
+Transmission Events = 0
+Patient_16 + Patient_5 : 1
+Transmission Events = 0
+Patient_16 + Patient_15 : 0
+Transmission Events = 0
+Patient_16 + Patient_12 : 1
+Transmission Events = 0
+Patient_16 + Patient_3 : 0
+Transmission Events = 0
+Patient_16 + Patient_4 : 1
+Transmission Events = 0
+Patient_16 + Patient_14 : 1
+Transmission Events = 0
+Patient_16 + Bat : 1
+Transmission Events = 0
+Patient_16 + Patient_13 : 0
+Transmission Events = 0
+Patient_16 + Rabid_raccoon_3 : 175
+Transmission Events = 43
+Patient_16 + Rabid_raccoon_1 : 95
+Transmission Events = 23
+Patient_16 + Rabid_raccoon_2 : 99
+Transmission Events = 24
+Patient_16 + Rabid_raccoon_4 : 98
+Transmission Events = 24
+-----------------------------------------
+Patient_11 + Guinea_pig : 78
+Transmission Events = 19
+Patient_11 + Cat : 47
+Transmission Events = 11
+Patient_11 + Patient_7 : 3
+Transmission Events = 0
+Patient_11 + reference : 19
+Transmission Events = 4
+Patient_11 + Patient_1 : 19
+Transmission Events = 4
+Patient_11 + Patient_9 : 1
+Transmission Events = 0
+Patient_11 + Patient_8 : 0
+Transmission Events = 0
+Patient_11 + Patient_6 : 1
+Transmission Events = 0
+Patient_11 + Patient_10 : 2
+Transmission Events = 0
+Patient_11 + Patient_16 : 0
+Transmission Events = 0
+Patient_11 + Patient_2 : 1
+Transmission Events = 0
+Patient_11 + Patient_5 : 1
+Transmission Events = 0
+Patient_11 + Patient_15 : 0
+Transmission Events = 0
+Patient_11 + Patient_12 : 1
+Transmission Events = 0
+Patient_11 + Patient_3 : 0
+Transmission Events = 0
+Patient_11 + Patient_4 : 1
+Transmission Events = 0
+Patient_11 + Patient_14 : 1
+Transmission Events = 0
+Patient_11 + Bat : 1
+Transmission Events = 0
+Patient_11 + Patient_13 : 0
+Transmission Events = 0
+Patient_11 + Rabid_raccoon_3 : 175
+Transmission Events = 43
+Patient_11 + Rabid_raccoon_1 : 95
+Transmission Events = 23
+Patient_11 + Rabid_raccoon_2 : 99
+Transmission Events = 24
+Patient_11 + Rabid_raccoon_4 : 98
+Transmission Events = 24
+-----------------------------------------
+Patient_2 + Guinea_pig : 79
+Transmission Events = 19
+Patient_2 + Cat : 48
+Transmission Events = 12
+Patient_2 + Patient_7 : 4
+Transmission Events = 1
+Patient_2 + reference : 20
+Transmission Events = 5
+Patient_2 + Patient_1 : 20
+Transmission Events = 5
+Patient_2 + Patient_9 : 2
+Transmission Events = 0
+Patient_2 + Patient_8 : 1
+Transmission Events = 0
+Patient_2 + Patient_6 : 2
+Transmission Events = 0
+Patient_2 + Patient_10 : 3
+Transmission Events = 0
+Patient_2 + Patient_16 : 1
+Transmission Events = 0
+Patient_2 + Patient_11 : 1
+Transmission Events = 0
+Patient_2 + Patient_5 : 2
+Transmission Events = 0
+Patient_2 + Patient_15 : 1
+Transmission Events = 0
+Patient_2 + Patient_12 : 2
+Transmission Events = 0
+Patient_2 + Patient_3 : 1
+Transmission Events = 0
+Patient_2 + Patient_4 : 2
+Transmission Events = 0
+Patient_2 + Patient_14 : 2
+Transmission Events = 0
+Patient_2 + Bat : 2
+Transmission Events = 0
+Patient_2 + Patient_13 : 1
+Transmission Events = 0
+Patient_2 + Rabid_raccoon_3 : 176
+Transmission Events = 44
+Patient_2 + Rabid_raccoon_1 : 96
+Transmission Events = 24
+Patient_2 + Rabid_raccoon_2 : 100
+Transmission Events = 25
+Patient_2 + Rabid_raccoon_4 : 99
+Transmission Events = 24
+-----------------------------------------
+Patient_5 + Guinea_pig : 79
+Transmission Events = 19
+Patient_5 + Cat : 48
+Transmission Events = 12
+Patient_5 + Patient_7 : 4
+Transmission Events = 1
+Patient_5 + reference : 18
+Transmission Events = 4
+Patient_5 + Patient_1 : 18
+Transmission Events = 4
+Patient_5 + Patient_9 : 0
+Transmission Events = 0
+Patient_5 + Patient_8 : 1
+Transmission Events = 0
+Patient_5 + Patient_6 : 2
+Transmission Events = 0
+Patient_5 + Patient_10 : 1
+Transmission Events = 0
+Patient_5 + Patient_16 : 1
+Transmission Events = 0
+Patient_5 + Patient_11 : 1
+Transmission Events = 0
+Patient_5 + Patient_2 : 2
+Transmission Events = 0
+Patient_5 + Patient_15 : 1
+Transmission Events = 0
+Patient_5 + Patient_12 : 2
+Transmission Events = 0
+Patient_5 + Patient_3 : 1
+Transmission Events = 0
+Patient_5 + Patient_4 : 2
+Transmission Events = 0
+Patient_5 + Patient_14 : 0
+Transmission Events = 0
+Patient_5 + Bat : 2
+Transmission Events = 0
+Patient_5 + Patient_13 : 1
+Transmission Events = 0
+Patient_5 + Rabid_raccoon_3 : 174
+Transmission Events = 43
+Patient_5 + Rabid_raccoon_1 : 94
+Transmission Events = 23
+Patient_5 + Rabid_raccoon_2 : 98
+Transmission Events = 24
+Patient_5 + Rabid_raccoon_4 : 97
+Transmission Events = 24
+-----------------------------------------
+Patient_15 + Guinea_pig : 78
+Transmission Events = 19
+Patient_15 + Cat : 47
+Transmission Events = 11
+Patient_15 + Patient_7 : 3
+Transmission Events = 0
+Patient_15 + reference : 19
+Transmission Events = 4
+Patient_15 + Patient_1 : 19
+Transmission Events = 4
+Patient_15 + Patient_9 : 1
+Transmission Events = 0
+Patient_15 + Patient_8 : 0
+Transmission Events = 0
+Patient_15 + Patient_6 : 1
+Transmission Events = 0
+Patient_15 + Patient_10 : 2
+Transmission Events = 0
+Patient_15 + Patient_16 : 0
+Transmission Events = 0
+Patient_15 + Patient_11 : 0
+Transmission Events = 0
+Patient_15 + Patient_2 : 1
+Transmission Events = 0
+Patient_15 + Patient_5 : 1
+Transmission Events = 0
+Patient_15 + Patient_12 : 1
+Transmission Events = 0
+Patient_15 + Patient_3 : 0
+Transmission Events = 0
+Patient_15 + Patient_4 : 1
+Transmission Events = 0
+Patient_15 + Patient_14 : 1
+Transmission Events = 0
+Patient_15 + Bat : 1
+Transmission Events = 0
+Patient_15 + Patient_13 : 0
+Transmission Events = 0
+Patient_15 + Rabid_raccoon_3 : 175
+Transmission Events = 43
+Patient_15 + Rabid_raccoon_1 : 95
+Transmission Events = 23
+Patient_15 + Rabid_raccoon_2 : 99
+Transmission Events = 24
+Patient_15 + Rabid_raccoon_4 : 98
+Transmission Events = 24
+-----------------------------------------
+Patient_12 + Guinea_pig : 79
+Transmission Events = 19
+Patient_12 + Cat : 48
+Transmission Events = 12
+Patient_12 + Patient_7 : 4
+Transmission Events = 1
+Patient_12 + reference : 20
+Transmission Events = 5
+Patient_12 + Patient_1 : 20
+Transmission Events = 5
+Patient_12 + Patient_9 : 2
+Transmission Events = 0
+Patient_12 + Patient_8 : 1
+Transmission Events = 0
+Patient_12 + Patient_6 : 2
+Transmission Events = 0
+Patient_12 + Patient_10 : 3
+Transmission Events = 0
+Patient_12 + Patient_16 : 1
+Transmission Events = 0
+Patient_12 + Patient_11 : 1
+Transmission Events = 0
+Patient_12 + Patient_2 : 2
+Transmission Events = 0
+Patient_12 + Patient_5 : 2
+Transmission Events = 0
+Patient_12 + Patient_15 : 1
+Transmission Events = 0
+Patient_12 + Patient_3 : 1
+Transmission Events = 0
+Patient_12 + Patient_4 : 2
+Transmission Events = 0
+Patient_12 + Patient_14 : 2
+Transmission Events = 0
+Patient_12 + Bat : 2
+Transmission Events = 0
+Patient_12 + Patient_13 : 1
+Transmission Events = 0
+Patient_12 + Rabid_raccoon_3 : 176
+Transmission Events = 44
+Patient_12 + Rabid_raccoon_1 : 96
+Transmission Events = 24
+Patient_12 + Rabid_raccoon_2 : 100
+Transmission Events = 25
+Patient_12 + Rabid_raccoon_4 : 99
+Transmission Events = 24
+-----------------------------------------
+Patient_3 + Guinea_pig : 78
+Transmission Events = 19
+Patient_3 + Cat : 47
+Transmission Events = 11
+Patient_3 + Patient_7 : 3
+Transmission Events = 0
+Patient_3 + reference : 19
+Transmission Events = 4
+Patient_3 + Patient_1 : 19
+Transmission Events = 4
+Patient_3 + Patient_9 : 1
+Transmission Events = 0
+Patient_3 + Patient_8 : 0
+Transmission Events = 0
+Patient_3 + Patient_6 : 1
+Transmission Events = 0
+Patient_3 + Patient_10 : 2
+Transmission Events = 0
+Patient_3 + Patient_16 : 0
+Transmission Events = 0
+Patient_3 + Patient_11 : 0
+Transmission Events = 0
+Patient_3 + Patient_2 : 1
+Transmission Events = 0
+Patient_3 + Patient_5 : 1
+Transmission Events = 0
+Patient_3 + Patient_15 : 0
+Transmission Events = 0
+Patient_3 + Patient_12 : 1
+Transmission Events = 0
+Patient_3 + Patient_4 : 1
+Transmission Events = 0
+Patient_3 + Patient_14 : 1
+Transmission Events = 0
+Patient_3 + Bat : 1
+Transmission Events = 0
+Patient_3 + Patient_13 : 0
+Transmission Events = 0
+Patient_3 + Rabid_raccoon_3 : 175
+Transmission Events = 43
+Patient_3 + Rabid_raccoon_1 : 95
+Transmission Events = 23
+Patient_3 + Rabid_raccoon_2 : 99
+Transmission Events = 24
+Patient_3 + Rabid_raccoon_4 : 98
+Transmission Events = 24
+-----------------------------------------
+Patient_4 + Guinea_pig : 79
+Transmission Events = 19
+Patient_4 + Cat : 48
+Transmission Events = 12
+Patient_4 + Patient_7 : 4
+Transmission Events = 1
+Patient_4 + reference : 20
+Transmission Events = 5
+Patient_4 + Patient_1 : 20
+Transmission Events = 5
+Patient_4 + Patient_9 : 2
+Transmission Events = 0
+Patient_4 + Patient_8 : 1
+Transmission Events = 0
+Patient_4 + Patient_6 : 2
+Transmission Events = 0
+Patient_4 + Patient_10 : 3
+Transmission Events = 0
+Patient_4 + Patient_16 : 1
+Transmission Events = 0
+Patient_4 + Patient_11 : 1
+Transmission Events = 0
+Patient_4 + Patient_2 : 2
+Transmission Events = 0
+Patient_4 + Patient_5 : 2
+Transmission Events = 0
+Patient_4 + Patient_15 : 1
+Transmission Events = 0
+Patient_4 + Patient_12 : 2
+Transmission Events = 0
+Patient_4 + Patient_3 : 1
+Transmission Events = 0
+Patient_4 + Patient_14 : 2
+Transmission Events = 0
+Patient_4 + Bat : 2
+Transmission Events = 0
+Patient_4 + Patient_13 : 1
+Transmission Events = 0
+Patient_4 + Rabid_raccoon_3 : 176
+Transmission Events = 44
+Patient_4 + Rabid_raccoon_1 : 96
+Transmission Events = 24
+Patient_4 + Rabid_raccoon_2 : 100
+Transmission Events = 25
+Patient_4 + Rabid_raccoon_4 : 99
+Transmission Events = 24
+-----------------------------------------
+Patient_14 + Guinea_pig : 79
+Transmission Events = 19
+Patient_14 + Cat : 48
+Transmission Events = 12
+Patient_14 + Patient_7 : 4
+Transmission Events = 1
+Patient_14 + reference : 18
+Transmission Events = 4
+Patient_14 + Patient_1 : 18
+Transmission Events = 4
+Patient_14 + Patient_9 : 0
+Transmission Events = 0
+Patient_14 + Patient_8 : 1
+Transmission Events = 0
+Patient_14 + Patient_6 : 2
+Transmission Events = 0
+Patient_14 + Patient_10 : 1
+Transmission Events = 0
+Patient_14 + Patient_16 : 1
+Transmission Events = 0
+Patient_14 + Patient_11 : 1
+Transmission Events = 0
+Patient_14 + Patient_2 : 2
+Transmission Events = 0
+Patient_14 + Patient_5 : 0
+Transmission Events = 0
+Patient_14 + Patient_15 : 1
+Transmission Events = 0
+Patient_14 + Patient_12 : 2
+Transmission Events = 0
+Patient_14 + Patient_3 : 1
+Transmission Events = 0
+Patient_14 + Patient_4 : 2
+Transmission Events = 0
+Patient_14 + Bat : 2
+Transmission Events = 0
+Patient_14 + Patient_13 : 1
+Transmission Events = 0
+Patient_14 + Rabid_raccoon_3 : 174
+Transmission Events = 43
+Patient_14 + Rabid_raccoon_1 : 94
+Transmission Events = 23
+Patient_14 + Rabid_raccoon_2 : 98
+Transmission Events = 24
+Patient_14 + Rabid_raccoon_4 : 97
+Transmission Events = 24
+-----------------------------------------
+Bat + Guinea_pig : 79
+Transmission Events = 19
+Bat + Cat : 48
+Transmission Events = 12
+Bat + Patient_7 : 4
+Transmission Events = 1
+Bat + reference : 20
+Transmission Events = 5
+Bat + Patient_1 : 20
+Transmission Events = 5
+Bat + Patient_9 : 2
+Transmission Events = 0
+Bat + Patient_8 : 1
+Transmission Events = 0
+Bat + Patient_6 : 2
+Transmission Events = 0
+Bat + Patient_10 : 3
+Transmission Events = 0
+Bat + Patient_16 : 1
+Transmission Events = 0
+Bat + Patient_11 : 1
+Transmission Events = 0
+Bat + Patient_2 : 2
+Transmission Events = 0
+Bat + Patient_5 : 2
+Transmission Events = 0
+Bat + Patient_15 : 1
+Transmission Events = 0
+Bat + Patient_12 : 2
+Transmission Events = 0
+Bat + Patient_3 : 1
+Transmission Events = 0
+Bat + Patient_4 : 2
+Transmission Events = 0
+Bat + Patient_14 : 2
+Transmission Events = 0
+Bat + Patient_13 : 1
+Transmission Events = 0
+Bat + Rabid_raccoon_3 : 176
+Transmission Events = 44
+Bat + Rabid_raccoon_1 : 96
+Transmission Events = 24
+Bat + Rabid_raccoon_2 : 100
+Transmission Events = 25
+Bat + Rabid_raccoon_4 : 99
+Transmission Events = 24
+-----------------------------------------
+Patient_13 + Guinea_pig : 78
+Transmission Events = 19
+Patient_13 + Cat : 47
+Transmission Events = 11
+Patient_13 + Patient_7 : 3
+Transmission Events = 0
+Patient_13 + reference : 19
+Transmission Events = 4
+Patient_13 + Patient_1 : 19
+Transmission Events = 4
+Patient_13 + Patient_9 : 1
+Transmission Events = 0
+Patient_13 + Patient_8 : 0
+Transmission Events = 0
+Patient_13 + Patient_6 : 1
+Transmission Events = 0
+Patient_13 + Patient_10 : 2
+Transmission Events = 0
+Patient_13 + Patient_16 : 0
+Transmission Events = 0
+Patient_13 + Patient_11 : 0
+Transmission Events = 0
+Patient_13 + Patient_2 : 1
+Transmission Events = 0
+Patient_13 + Patient_5 : 1
+Transmission Events = 0
+Patient_13 + Patient_15 : 0
+Transmission Events = 0
+Patient_13 + Patient_12 : 1
+Transmission Events = 0
+Patient_13 + Patient_3 : 0
+Transmission Events = 0
+Patient_13 + Patient_4 : 1
+Transmission Events = 0
+Patient_13 + Patient_14 : 1
+Transmission Events = 0
+Patient_13 + Bat : 1
+Transmission Events = 0
+Patient_13 + Rabid_raccoon_3 : 175
+Transmission Events = 43
+Patient_13 + Rabid_raccoon_1 : 95
+Transmission Events = 23
+Patient_13 + Rabid_raccoon_2 : 99
+Transmission Events = 24
+Patient_13 + Rabid_raccoon_4 : 98
+Transmission Events = 24
+-----------------------------------------
+Rabid_raccoon_3 + Guinea_pig : 251
+Transmission Events = 62
+Rabid_raccoon_3 + Cat : 222
+Transmission Events = 55
+Rabid_raccoon_3 + Patient_7 : 176
+Transmission Events = 44
+Rabid_raccoon_3 + reference : 166
+Transmission Events = 41
+Rabid_raccoon_3 + Patient_1 : 166
+Transmission Events = 41
+Rabid_raccoon_3 + Patient_9 : 174
+Transmission Events = 43
+Rabid_raccoon_3 + Patient_8 : 175
+Transmission Events = 43
+Rabid_raccoon_3 + Patient_6 : 176
+Transmission Events = 44
+Rabid_raccoon_3 + Patient_10 : 173
+Transmission Events = 43
+Rabid_raccoon_3 + Patient_16 : 175
+Transmission Events = 43
+Rabid_raccoon_3 + Patient_11 : 175
+Transmission Events = 43
+Rabid_raccoon_3 + Patient_2 : 176
+Transmission Events = 44
+Rabid_raccoon_3 + Patient_5 : 174
+Transmission Events = 43
+Rabid_raccoon_3 + Patient_15 : 175
+Transmission Events = 43
+Rabid_raccoon_3 + Patient_12 : 176
+Transmission Events = 44
+Rabid_raccoon_3 + Patient_3 : 175
+Transmission Events = 43
+Rabid_raccoon_3 + Patient_4 : 176
+Transmission Events = 44
+Rabid_raccoon_3 + Patient_14 : 174
+Transmission Events = 43
+Rabid_raccoon_3 + Bat : 176
+Transmission Events = 44
+Rabid_raccoon_3 + Patient_13 : 175
+Transmission Events = 43
+Rabid_raccoon_3 + Rabid_raccoon_1 : 116
+Transmission Events = 29
+Rabid_raccoon_3 + Rabid_raccoon_2 : 132
+Transmission Events = 33
+Rabid_raccoon_3 + Rabid_raccoon_4 : 137
+Transmission Events = 34
+-----------------------------------------
+Rabid_raccoon_1 + Guinea_pig : 171
+Transmission Events = 42
+Rabid_raccoon_1 + Cat : 142
+Transmission Events = 35
+Rabid_raccoon_1 + Patient_7 : 96
+Transmission Events = 24
+Rabid_raccoon_1 + reference : 86
+Transmission Events = 21
+Rabid_raccoon_1 + Patient_1 : 86
+Transmission Events = 21
+Rabid_raccoon_1 + Patient_9 : 94
+Transmission Events = 23
+Rabid_raccoon_1 + Patient_8 : 95
+Transmission Events = 23
+Rabid_raccoon_1 + Patient_6 : 96
+Transmission Events = 24
+Rabid_raccoon_1 + Patient_10 : 93
+Transmission Events = 23
+Rabid_raccoon_1 + Patient_16 : 95
+Transmission Events = 23
+Rabid_raccoon_1 + Patient_11 : 95
+Transmission Events = 23
+Rabid_raccoon_1 + Patient_2 : 96
+Transmission Events = 24
+Rabid_raccoon_1 + Patient_5 : 94
+Transmission Events = 23
+Rabid_raccoon_1 + Patient_15 : 95
+Transmission Events = 23
+Rabid_raccoon_1 + Patient_12 : 96
+Transmission Events = 24
+Rabid_raccoon_1 + Patient_3 : 95
+Transmission Events = 23
+Rabid_raccoon_1 + Patient_4 : 96
+Transmission Events = 24
+Rabid_raccoon_1 + Patient_14 : 94
+Transmission Events = 23
+Rabid_raccoon_1 + Bat : 96
+Transmission Events = 24
+Rabid_raccoon_1 + Patient_13 : 95
+Transmission Events = 23
+Rabid_raccoon_1 + Rabid_raccoon_3 : 116
+Transmission Events = 29
+Rabid_raccoon_1 + Rabid_raccoon_2 : 58
+Transmission Events = 14
+Rabid_raccoon_1 + Rabid_raccoon_4 : 57
+Transmission Events = 14
+-----------------------------------------
+Rabid_raccoon_2 + Guinea_pig : 175
+Transmission Events = 43
+Rabid_raccoon_2 + Cat : 146
+Transmission Events = 36
+Rabid_raccoon_2 + Patient_7 : 100
+Transmission Events = 25
+Rabid_raccoon_2 + reference : 90
+Transmission Events = 22
+Rabid_raccoon_2 + Patient_1 : 90
+Transmission Events = 22
+Rabid_raccoon_2 + Patient_9 : 98
+Transmission Events = 24
+Rabid_raccoon_2 + Patient_8 : 99
+Transmission Events = 24
+Rabid_raccoon_2 + Patient_6 : 100
+Transmission Events = 25
+Rabid_raccoon_2 + Patient_10 : 97
+Transmission Events = 24
+Rabid_raccoon_2 + Patient_16 : 99
+Transmission Events = 24
+Rabid_raccoon_2 + Patient_11 : 99
+Transmission Events = 24
+Rabid_raccoon_2 + Patient_2 : 100
+Transmission Events = 25
+Rabid_raccoon_2 + Patient_5 : 98
+Transmission Events = 24
+Rabid_raccoon_2 + Patient_15 : 99
+Transmission Events = 24
+Rabid_raccoon_2 + Patient_12 : 100
+Transmission Events = 25
+Rabid_raccoon_2 + Patient_3 : 99
+Transmission Events = 24
+Rabid_raccoon_2 + Patient_4 : 100
+Transmission Events = 25
+Rabid_raccoon_2 + Patient_14 : 98
+Transmission Events = 24
+Rabid_raccoon_2 + Bat : 100
+Transmission Events = 25
+Rabid_raccoon_2 + Patient_13 : 99
+Transmission Events = 24
+Rabid_raccoon_2 + Rabid_raccoon_3 : 132
+Transmission Events = 33
+Rabid_raccoon_2 + Rabid_raccoon_1 : 58
+Transmission Events = 14
+Rabid_raccoon_2 + Rabid_raccoon_4 : 5
+Transmission Events = 1
+-----------------------------------------
+Rabid_raccoon_4 + Guinea_pig : 174
+Transmission Events = 43
+Rabid_raccoon_4 + Cat : 145
+Transmission Events = 36
+Rabid_raccoon_4 + Patient_7 : 97
+Transmission Events = 24
+Rabid_raccoon_4 + reference : 87
+Transmission Events = 21
+Rabid_raccoon_4 + Patient_1 : 87
+Transmission Events = 21
+Rabid_raccoon_4 + Patient_9 : 97
+Transmission Events = 24
+Rabid_raccoon_4 + Patient_8 : 98
+Transmission Events = 24
+Rabid_raccoon_4 + Patient_6 : 99
+Transmission Events = 24
+Rabid_raccoon_4 + Patient_10 : 96
+Transmission Events = 24
+Rabid_raccoon_4 + Patient_16 : 98
+Transmission Events = 24
+Rabid_raccoon_4 + Patient_11 : 98
+Transmission Events = 24
+Rabid_raccoon_4 + Patient_2 : 99
+Transmission Events = 24
+Rabid_raccoon_4 + Patient_5 : 97
+Transmission Events = 24
+Rabid_raccoon_4 + Patient_15 : 98
+Transmission Events = 24
+Rabid_raccoon_4 + Patient_12 : 99
+Transmission Events = 24
+Rabid_raccoon_4 + Patient_3 : 98
+Transmission Events = 24
+Rabid_raccoon_4 + Patient_4 : 99
+Transmission Events = 24
+Rabid_raccoon_4 + Patient_14 : 97
+Transmission Events = 24
+Rabid_raccoon_4 + Bat : 99
+Transmission Events = 24
+Rabid_raccoon_4 + Patient_13 : 98
+Transmission Events = 24
+Rabid_raccoon_4 + Rabid_raccoon_3 : 137
+Transmission Events = 34
+Rabid_raccoon_4 + Rabid_raccoon_1 : 57
+Transmission Events = 14
+Rabid_raccoon_4 + Rabid_raccoon_2 : 5
+Transmission Events = 1
