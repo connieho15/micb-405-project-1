@@ -15,14 +15,11 @@ for filename in Bat Cat Guinea_pig Patient_10 Patient_11 Patient_12 Patient_13 P
     echo "Sorting BAM - $filename"
     samtools sort ${filename}.bam -o ${filename}.sorted
     echo "Done sorting - $filename"
-    echo "Removing Duplicates - $filename"
-    samtools rmdup ${filename}.sorted ${filename}_rmdup.sorted
-    echo "Done removing duplicates - $filename"
     echo "Indexing BAM - $filename"
-    samtools index ${filename}_rmdup.sorted
+    samtools index ${filename}.sorted
     echo "Done indexing - $filename"
     echo "Running mpileup - $filename"
-    samtools mpileup -q 30 -u -f ref_genome.fasta ${filename}_rmdup.sorted > ${filename}.bcf -I
+    samtools mpileup -q 30 -u -f ref_genome.fasta ${filename}.sorted > ${filename}.bcf -I
     echo "Done mpileup - $filename"
     echo "Converting to VCF - $filename"
     bcftools call -O v -mv ${filename}.bcf > ${filename}.vcf
