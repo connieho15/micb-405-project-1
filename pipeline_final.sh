@@ -24,9 +24,9 @@ for filename in Bat Cat Guinea_pig Patient_10 Patient_11 Patient_12 Patient_13 P
     echo "Running mpileup - $filename"
     samtools mpileup -q 30 -u -f ref_genome.fasta ${filename}_rmdup.sorted > ${filename}.bcf -I
     echo "Done mpileup - $filename"
-    echo "Converting to BCF - $filename"
+    echo "Converting to VCF - $filename"
     bcftools call -O v -mv ${filename}.bcf > ${filename}.vcf
-    echo "Done conversion to BCF - $filename"
+    echo "Done conversion to VCF - $filename"
     echo "Filtering low quality variants - $filename"
     bcftools filter --exclude "QUAL < 200" /path/to/file.vcf
     echo "Done filtering - $filename"
