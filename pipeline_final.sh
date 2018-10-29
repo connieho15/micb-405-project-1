@@ -26,7 +26,7 @@ for filename in Bat Cat Guinea_pig Patient_10 Patient_11 Patient_12 Patient_13 P
     bcftools call -O v -mv ${filename}.bcf > ${filename}.vcf
     echo "Done conversion to VCF - $filename"
     echo "Filtering low quality variants - $filename"
-    bcftools filter --exclude "QUAL < 200" ${filename}.vcf -o filtered/${filename}_filtered.vcf
+    bcftools filter --exclude "QUAL < 200" ${filename}.vcf -o filtered/${filename}.vcf
     echo "Done filtering - $filename"
 done
 
