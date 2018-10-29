@@ -3,6 +3,7 @@
 mkdir Project1
 cp /projects/micb405/resources/project_1/ref_genome.fasta ~/Project1
 cd Project1
+mkdir filtered
 bwa index ref_genome.fasta
 
 for filename in Bat Cat Guinea_pig Patient_10 Patient_11 Patient_12 Patient_13 Patient_14 Patient_15 Patient_16 Patient_1 Patient_2 Patient_3 Patient_4 Patient_5 Patient_6 Patient_7 Patient_8 Patient_9 Rabid_raccoon_1 Rabid_raccoon_2 Rabid_raccoon_3 Rabid_raccoon_4 ; do
@@ -25,13 +26,13 @@ for filename in Bat Cat Guinea_pig Patient_10 Patient_11 Patient_12 Patient_13 P
     bcftools call -O v -mv ${filename}.bcf > ${filename}.vcf
     echo "Done conversion to VCF - $filename"
     echo "Filtering low quality variants - $filename"
-    bcftools filter --exclude "QUAL < 200" /path/to/file.vcf
+    bcftools filter --exclude "QUAL < 200" ${filename}.vcf -o filtered/${filename}_filtered.vcf
     echo "Done filtering - $filename"
 done
 
 echo "Creating MSA"
-python /projects/micb405/resources/vcf_to_fasta_het.py -x ~/Project1/ output
-muscle -in output.fasta -out result.mfa
+python /projects/micb405/resources/vcf_to_fasta_het.py -x ~/Project1/filtered output
+muscle -in filtered/output.fasta -out result.mfa
 trimal -automated1 -in result.mfa -out result_trimal.mfa
 echo "Done creating MSA"
 
