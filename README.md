@@ -1,6 +1,6 @@
 # MICB 405 Project 1
 
-Group 14: 
+**Group 14**: 
 
 Theodora Lo, Connie Ho, Rebecca Dos Remedios, Owen Tsai, Alfredo Roberts Bustinza
 
